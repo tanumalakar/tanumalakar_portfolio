@@ -1,2 +1,2 @@
-# tanumalakar_portfolio
-my portfolio
+# ResumeProject_2
+Just simple ResumeProject_2
